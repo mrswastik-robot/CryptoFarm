@@ -9,7 +9,6 @@ More than 30% of the farmers in India are below poverty line and rest face finan
 We aim to help farmers to go beyond financial burden by CONNECTING URBAN TO RURAL economics through BLOCKCHAIN. 
 
 ■ Problems we aim to tackle:
-
 1. Loans
 
 2.Dept Trap
